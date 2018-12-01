@@ -1,0 +1,14 @@
+D:\Learn C#\Grades\Grades\bin\Debug\Grades.exe.config
+D:\Learn C#\Grades\Grades\bin\Debug\Grades.exe
+D:\Learn C#\Grades\Grades\bin\Debug\Grades.pdb
+D:\Learn C#\Grades\Grades\obj\Debug\Grades.csprojAssemblyReference.cache
+D:\Learn C#\Grades\Grades\obj\Debug\Grades.csproj.CoreCompileInputs.cache
+D:\Learn C#\Grades\Grades\obj\Debug\Grades.exe
+D:\Learn C#\Grades\Grades\obj\Debug\Grades.pdb
+D:\Projects C#\Grades\Grades\bin\Debug\Grades.exe.config
+D:\Projects C#\Grades\Grades\bin\Debug\Grades.exe
+D:\Projects C#\Grades\Grades\bin\Debug\Grades.pdb
+D:\Projects C#\Grades\Grades\obj\Debug\Grades.csprojAssemblyReference.cache
+D:\Projects C#\Grades\Grades\obj\Debug\Grades.csproj.CoreCompileInputs.cache
+D:\Projects C#\Grades\Grades\obj\Debug\Grades.exe
+D:\Projects C#\Grades\Grades\obj\Debug\Grades.pdb
